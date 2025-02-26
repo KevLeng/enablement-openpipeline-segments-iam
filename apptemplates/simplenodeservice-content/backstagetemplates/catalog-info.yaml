@@ -14,7 +14,7 @@ metadata:
     - url: https://github.com/KevLeng/enablement-openpipeline-segments-iam.git
       title: Github Repo
       icon: github
-    - url: https://shiny-space-zebra-qv6p9v6qxw92xq9v-DEMO_APP_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+    - url: https://shiny-space-zebra-qv6p9v6qxw92xq9v-80.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
       title: "Browse Application"
       icon: subject
     - title: View in ArgoCD
