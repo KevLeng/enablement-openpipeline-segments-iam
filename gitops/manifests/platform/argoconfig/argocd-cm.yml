@@ -14,4 +14,4 @@ data:
   # Enables application status badge feature
   statusbadge.enabled: "true"
   context: |
-    argocdUrl: "https://humble-capybara-jr9q4r959j6hp97w-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"  
+    argocdUrl: "https://humble-capybara-jr9q4r959j6hp97w-30100.app.github.dev"  
